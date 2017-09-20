@@ -1,10 +1,10 @@
 # Movie-Trailer-Website
 Table of Content
 
-What is it?
-Program structure
-Running
-Licensing
+What is it?<br>
+Program structure<br>
+Running<br>
+Licensing<br>
 
 What is it?
 -----------
